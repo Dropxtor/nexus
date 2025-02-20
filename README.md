@@ -1,4 +1,4 @@
-## Nexus Prover Node 
+## Nexus Prover Node - Phase 2
 Ce site Web dispose d'un fichier CLI qui utilise Chromium pour le système écosystémique Nexus et l'ampoule NEX.  
 
 ### Système de gestion des déchets  
